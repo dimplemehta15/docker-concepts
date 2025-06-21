@@ -86,7 +86,10 @@ A **container** is a lightweight, standalone package that includes everything ne
 
 ---
 
-## ⚖️ Comparison Table
+## ⚖️ Comparison 
+
+![image](https://github.com/user-attachments/assets/94749d0c-2f63-4a87-b361-b82bd20b14c0)
+
 
 | Feature              | Virtual Machines (VMs)            | Containers                             |
 |----------------------|------------------------------------|-----------------------------------------|

@@ -76,6 +76,7 @@ A **Docker Image** is like a **snapshot** or **blueprint** of a filesystem. It c
 - Application binaries and dependencies (e.g., JDK, Python runtime).
 - Environment variables and configuration files.
 - Application source code or compiled artifacts.
+- You can have multiple versions/snapshots/image of the same application
 
 **Key properties:**
 
